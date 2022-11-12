@@ -1,9 +1,8 @@
-﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1500
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6tunnel", "6tunnel.vcxproj", "{C16F198A-A2E5-425B-AD3D-17109780B157}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6tunnel", "Source\6tunnel.vcxproj", "{C16F198A-A2E5-425B-AD3D-17109780B157}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +25,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F1DD6461-344E-4918-8834-6E69112D899F}
+		SolutionGuid = {1B337523-F62C-4E67-9F4C-53AFAB98F686}
 	EndGlobalSection
 EndGlobal
