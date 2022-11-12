@@ -24,7 +24,7 @@
     <Keyword>MFCProj</Keyword>
     <RootNamespace>MFC</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
-    <ProjectName>6tunnelMFC</ProjectName>
+    <ProjectName>MFC</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
