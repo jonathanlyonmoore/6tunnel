@@ -1,0 +1,2 @@
+﻿  6tunnel.c
+d:\partners\sphinx logic\myports\network\6tunnel-0.13\6tunnel.c(101): fatal error C1083: Cannot open include file: 'pwd.h': No such file or directory
